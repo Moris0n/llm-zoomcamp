@@ -1,1 +1,4 @@
-# llm-zoomcamp
+# llm-zoomcamp 
+
+## Mor Sondak
+
